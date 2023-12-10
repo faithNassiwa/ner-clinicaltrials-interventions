@@ -1,4 +1,4 @@
-# SemiSupervised Named Entity Recognition on Clinical Trial Interventions using BERN2 and BERT
+# SemiSupervised Named Entity Recognition on Clinical Trial Interventions using BERT
 
 ## Summary
 This project aims to extract valuable insights from the vast unstructured data in clinical trial
